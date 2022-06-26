@@ -1,6 +1,6 @@
 # напиши здесь код для второго экрана приложения
 from PyQt5.QtCore import Qt, QTimer, QTime, QLocale
-from PyQt%.QtGui import QDoubleValidator, QIntValidator, QFont
+from PyQt.QtGui import QDoubleValidator, QIntValidator, QFont
 from PyQt5.QtWidgets import (QApplication, QWidget, QHBoxLayout, QVBoxLayout, QGroupBox, QRadioButton, QPushButton, QLabel, QListWidget, QLineEdit)
 from instr import *
 from final_win import *
